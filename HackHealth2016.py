@@ -2,7 +2,7 @@
 #I am a beginner taking CSE 101, (Introduction to Computers) and I am using a YouTube tutorials to assist me with this
 #I figured that a text-based game would be appropriate because it is perfect for beginners
 #learning Python, such as myself
-#It may not be finished in time, but thank you for testing my first full program
+#It may not be finished in time, but thank you for testing my first full program!
 #This event definitely helped me gain experience and learn a lot more than I expected!
 #Also, I used PyCharm to write the program
 def help_function ():
